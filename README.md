@@ -10,4 +10,4 @@ With every keycard you collect you will be asked to enter a passcode which you c
 I have used Azure PlayFab to store the user login data and game stats on the Database. 
 
 
-![Semantic description of image](/docs/img/project-1.png "Lights Out Code In")
+![Semantic description of image]( Lights-out-code-In/Assets/Textures/SplashdaSCreen.png  "Lights Out Code In")
