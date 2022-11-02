@@ -11,4 +11,4 @@ With every keycard you collect you will be asked to enter a passcode which you c
 
 I have used Azure PlayFab to store the user login data and game stats on the Database. 
 
-
+![](https://github.com/chiragnc22/Lights-out-code-In/blob/main/Assets/Textures/lights%20out%20code%20in%20-%20Made%20with%20Clipchamp.gif)
